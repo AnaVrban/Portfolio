@@ -7,5 +7,5 @@
  - [Power BI Dashboard](https://github.com/AnaVrban/Portfolio)
 
 <h2> Connect with me: </h2>
-<a> AnaWrban19@gmail.com</a>
+<a> Anawrban19@gmail.com</a>
 <a href = "https://www.linkedin.com/in/ana-vrban-005390144/" > LinkedIn</a>
