@@ -4,9 +4,12 @@
  <h2> | Aspiring HR- & People Analytics Specialist</h2>
 
 
-- <b>HR Analytics Dashboard | Descriptive analysis of attrition data</b>
-    -  <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
-    - <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
+- <b>HR Attrition Dashboard | Descriptive analysis of attrition data</b>
+    -  <a> [Project Repository](https://github.com/AnaVrban/HR-Attrition-Dashboard) </a>
+
+- <b>HR Attrition Dashboard | Descriptive analysis of attrition data</b>
+    -  <a> [Project Repository](https://github.com/AnaVrban/HR-Attrition-Dashboard) </a>  
+  
 
 <h2> Connect with me: </h2>
 <a> Anawrban19@gmail.com</a>
