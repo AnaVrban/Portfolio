@@ -6,9 +6,6 @@
 
 - <b>HR Attrition Dashboard | Descriptive analysis of attrition data</b>
     -  <a> [Project Repository](https://github.com/AnaVrban/HR-Attrition-Dashboard) </a>
-
-- <b>HR Attrition Dashboard | Descriptive analysis of attrition data</b>
-    -  <a> [Project Repository](https://github.com/AnaVrban/HR-Attrition-Dashboard) </a>  
   
 
 <h2> Connect with me: </h2>
